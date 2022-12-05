@@ -15,7 +15,7 @@ This repository contains the SDE Sheets solution. Choose a question from the she
 
 #
 ## 💻 _What Should I Contribute?🤔✒️_
-<strong>_Program in any language is accepted_</strong>
+<strong>_Program in C++ language is accepted_</strong>
 <br><br>
 
 ## _How to contribute?🤔✒️_
