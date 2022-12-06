@@ -1,3 +1,8 @@
+<b> <a href="https://discord.gg/3NX2nThk" target="_blank">
+<font size="3200"> Be a part of our Community on Discord 🚀</font>
+</a>
+</b>
+
 # SDE_Sheets_Solutions
 Here Solutions to the SDE sheets are available to help students with the optimized solution and understanding of each question.
 
